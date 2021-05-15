@@ -1,0 +1,19 @@
+{
+  "type": "custom:the_void",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:jungle",
+      "layers": [
+        {
+          "block": "minecraft:barrier",
+          "height": 1
+        }
+      ],
+      "structures": {
+        "structures": {
+        }
+      }
+    }
+  }
+}
