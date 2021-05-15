@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": -875496716,
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "seed": -875496716,
+      "biome": "custom:space_forest"
+    },
+    "settings": "minecraft:floating_islands"
+  }
+}
