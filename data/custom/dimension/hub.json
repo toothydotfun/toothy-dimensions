@@ -14,8 +14,8 @@
     "fixed_time": 3910,
     "logical_height": 256,
     "infiniburn": "minecraft:infiniburn_overworld",
-    "min_y": -64,
-    "height": 2032
+    "min_y": 0,
+    "height": 256
   },
   "generator": {
     "type": "minecraft:flat",
