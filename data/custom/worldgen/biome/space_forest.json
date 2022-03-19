@@ -1,7 +1,4 @@
 {
-  "surface_builder": "minecraft:grass",
-  "depth": 0.125,
-  "scale": 0.05,
   "temperature": 0.8,
   "downfall": 0.4,
   "precipitation": "rain",
@@ -15,7 +12,6 @@
     "foliage_color": 12255487,
     "grass_color_modifier": "swamp"
   },
-  "starts": [],
   "spawners": {},
   "spawn_costs": {},
   "carvers": {},

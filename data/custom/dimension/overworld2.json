@@ -5,9 +5,10 @@
     "seed": 645589034,
     "settings": "minecraft:overworld",
     "biome_source": {
-      "type": "minecraft:vanilla_layered",
+      "type": "multi_noise",
       "seed": 645589034,
-      "large_biomes": true
+      "large_biomes": true,
+      "preset": "minecraft:overworld"
     }
   }
 }
