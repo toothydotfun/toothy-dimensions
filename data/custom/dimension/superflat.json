@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:plains",
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:grass_block",aaaa
+          "height": 1
+        },
+        {
+          "block": "minecraft:dirt",
+          "height": 3
+        }
+      ],
+      "structures": {
+        "stronghold": {
+          "distance": 1000,
+          "spread": 12,
+          "count": 5
+        },
+        "structures": {
+          "minecraft:pillager_outpost": {
+            "spacing": 10,
+            "separation": 5,
+            "salt": 0
+          },
+          "minecraft:village": {
+            "spacing": 10,
+            "separation": 5,
+            "salt": 0
+          },
+          "minecraft:mansion": {
+            "spacing": 10,
+            "separation": 5,
+            "salt": 0
+          },
+          "minecraft:swamp_hut": {
+            "spacing": 10,
+            "separation": 5,
+            "salt": 0
+          }
+        }
+      }
+    }
+  }
+}
