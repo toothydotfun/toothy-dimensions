@@ -5,10 +5,10 @@
     "seed": 952584897,
     "settings": {
       "name": "minecraft:caves",
-      "bedrock_roof_position": 256,
+      "bedrock_roof_position": -128,
       "bedrock_floor_position": -64,
       "sea_level": -50,
-      "min_surface_level": 0,
+      "min_surface_level": -50,
       "disable_mob_generation": false,
       "noise_caves_enabled": false,
       "noodle_caves_enabled": false,
@@ -33,6 +33,7 @@
         "size_vertical": 2,
         "simplex_surface_noise": false,
         "random_density_offset": false,
+        "amplified": false,
         "sampling": {
           "xz_scale": 1,
           "y_scale": 3,
@@ -56,7 +57,7 @@
     },
     "biome_source": {
       "type": "minecraft:fixed",
-      "biome": "custom:vagina"
+      "biome": "minecraft:crimson_forest"
     }
   }
 }
