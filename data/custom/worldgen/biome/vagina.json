@@ -1,0 +1,79 @@
+{
+  "surface_builder": "minecraft:crimson_forest",
+  "depth": 0.125,
+  "scale": 0.05,
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "precipitation": "none",
+  "temperature_modifier": "none",
+  "category": "underground",
+  "player_spawn_friendly": true,
+  "effects": {
+    "sky_color": 16711680,
+    "fog_color": 16711803,
+    "water_color": 55541,
+    "water_fog_color": 64511,
+    "grass_color": 16711680,
+    "foliage_color": 16711680,
+    "grass_color_modifier": "swamp",
+    "ambient_sound": "minecraft:ambient.underwater.loop master",
+    "mood_sound": {
+      "sound": "ambient.nether_wastes.loop",
+      "tick_delay": 0,
+      "block_search_extent": 0,
+      "offset": 0
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:white_ash"
+      },
+      "probability": 1
+    }
+  },
+  "starts": [
+    "minecraft:fortress",
+    "minecraft:bastion_remnant",
+    "minecraft:ruined_portal_nether",
+    "minecraft:village_desert"
+  ],
+  "spawners": {
+    "creature": [
+      {
+        "type": "minecraft:endermite",
+        "weight": 1,
+        "minCount": 3,
+        "maxCount": 9
+      },
+      {
+        "type": "minecraft:cave_spider",
+        "weight": 1,
+        "minCount": 3,
+        "maxCount": 7
+      },
+      {
+        "type": "minecraft:phantom",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 4,
+        "minCount": 10,
+        "maxCount": 50
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:warped_fungi",
+      "minecraft:ore_soul_sand",
+      "minecraft:moss_patch_bonemeal",
+      "minecraft:delta",
+      "minecraft:jungle_bush",
+      "minecraft:glowstone"
+    ]
+  ]
+}
