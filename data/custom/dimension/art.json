@@ -1,6 +1,6 @@
 {
   "type": {
-    "name": "custom:hub",
+    "name": "custom:",
     "ultrawarm": false,
     "natural": true,
     "piglin_safe": false,
@@ -26,8 +26,8 @@
       "features": false,
       "layers": [
         {
-          "block": "minecraft:black_stained_glass",
-          "height": 10
+          "block": "minecraft:barrier",
+          "height": 1
         }
       ],
       "structure_overrides": []
