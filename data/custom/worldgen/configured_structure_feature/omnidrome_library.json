@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "biomes": "custom:omnidrome/1",
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "custom:library",
+    "size": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:village",
+  "biomes": "custom:sanctum/rubblework_city",
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "custom:sanctum_marauder",
+    "size": 6
+  }
+}

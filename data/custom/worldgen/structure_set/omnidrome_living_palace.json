@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "custom:omnidrome_living_palace",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 22,
+    "separation": 15,
+    "salt": 2098825
+  }
+}

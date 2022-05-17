@@ -1,0 +1,25 @@
+{
+  "type": "custom:varskspace",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": -1464245863,
+    "settings": "custom:varskspace",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "custom:varskspace/expanse",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}

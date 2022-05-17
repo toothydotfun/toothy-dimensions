@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "biomes": "custom:the_underdark/petrified_forest",
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "custom:web",
+    "size": 6
+  }
+}

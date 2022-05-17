@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:village",
+  "biomes": "custom:sanctum/dark_soot_dunes",
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "custom:sanctum_d_boss",
+    "size": 6
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "sanctum_d_path",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "custom:sanctum_d_path3",
+        "processors": "custom:ruin",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "custom:sanctum_d_path2",
+        "processors": "custom:ruin",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "custom:sanctum_d_path1",
+        "processors": "custom:ruin",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "custom:sanctum_d_path",
+        "processors": "custom:ruin",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

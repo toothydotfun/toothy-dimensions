@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "biomes": "custom:sanctum/no_mans_land",
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "custom:gear",
+    "size": 6
+  }
+}
