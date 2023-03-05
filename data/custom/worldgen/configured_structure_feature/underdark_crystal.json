@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:bastion_remnant",
-  "biomes": "custom:the_underdark/crystal_caves",
-  "spawn_overrides": {},
-  "config": {
-    "start_pool": "custom:crystal",
-    "size": 6
-  }
-}

@@ -20,14 +20,19 @@
   },
   "features": [
     [],
-    ["custom:sanctum/rubble2",
+    [
+      "custom:sanctum/rubble2",
       "custom:sanctum/rubble"
     ],
     [
       "minecraft:basalt_pillar"
     ],
-    ["custom:sanctum/city_tree1"],
-    ["custom:sanctum/city_tree2"],
+    [
+      "custom:sanctum/city_tree1"
+    ],
+    [
+      "custom:sanctum/city_tree2"
+    ],
     [],
     [],
     [
@@ -77,6 +82,5 @@
     },
     "ambient_sound": "minecraft:block.roots.step"
   },
-  "precipitation": "none",
-  "category": "nether"
+  "precipitation": "none"
 }

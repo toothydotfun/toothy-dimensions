@@ -92,10 +92,14 @@
       "custom:underdark/crystal_caves/ore_calcite",
       "custom:underdark/crystal_caves/diamond_ore2"
     ],
-    ["custom:underdark/crystal_caves/spikes1",
-    "custom:underdark/crystal_caves/spikes2",
-    "custom:underdark/crystal_caves/spikes3"],
-    ["custom:underdark/crystal_caves/ore_sea_l"],
+    [
+      "custom:underdark/crystal_caves/spikes1",
+      "custom:underdark/crystal_caves/spikes2",
+      "custom:underdark/crystal_caves/spikes3"
+    ],
+    [
+      "custom:underdark/crystal_caves/ore_sea_l"
+    ],
     [],
     [
       "minecraft:freeze_top_layer"
@@ -128,6 +132,5 @@
     },
     "ambient_sound": "minecraft:block.roots.step"
   },
-  "precipitation": "none",
-  "category": "extreme_hills"
+  "precipitation": "none"
 }

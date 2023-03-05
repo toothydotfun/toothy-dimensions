@@ -11,12 +11,14 @@
     ],
     "misc": [],
     "water_creature": [],
-    "creature": [{
+    "creature": [
+      {
         "type": "minecraft:mooshroom",
         "weight": 8,
         "minCount": 4,
         "maxCount": 8
-      }],
+      }
+    ],
     "monster": [
       {
         "type": "minecraft:zombie_villager",
@@ -146,7 +148,9 @@
       "offset": 2
     },
     "additions_sound": {
-      "sound": "custom:underdark_ambient_wind",
+      "sound": {
+        "sound_id": "custom:underdark_ambient_wind"
+      },
       "tick_chance": 0.0001
     },
     "music": {
@@ -157,6 +161,5 @@
     },
     "ambient_sound": "minecraft:block.roots.step"
   },
-  "precipitation": "none",
-  "category": "none"
+  "precipitation": "none"
 }

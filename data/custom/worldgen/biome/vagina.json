@@ -6,7 +6,6 @@
   "downfall": 0.4,
   "precipitation": "none",
   "temperature_modifier": "none",
-  "category": "underground",
   "player_spawn_friendly": true,
   "effects": {
     "sky_color": 16711680,
@@ -16,7 +15,9 @@
     "grass_color": 16711680,
     "foliage_color": 16711680,
     "grass_color_modifier": "swamp",
-    "ambient_sound": "minecraft:ambient.underwater.loop master",
+    "ambient_sound": {
+      "sound_id": "minecraft:ambient.underwater.loop master"
+    },
     "mood_sound": {
       "sound": "ambient.nether_wastes.loop",
       "tick_delay": 0,

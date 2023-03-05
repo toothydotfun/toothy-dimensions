@@ -2,7 +2,6 @@
   "type": "custom:sanctum",
   "generator": {
     "type": "minecraft:noise",
-    "seed": -1464245863,
     "settings": "custom:sanctum",
     "biome_source": {
       "type": "minecraft:multi_noise",

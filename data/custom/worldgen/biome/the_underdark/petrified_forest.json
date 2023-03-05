@@ -64,9 +64,13 @@
       "minecraft:lake_lava_surface",
       "minecraft:lake_lava_underground"
     ],
-    ["custom:underdark/petrified_ground",
-      "custom:underdark/dead_tree"],
-    ["custom:underdark/tree"],
+    [
+      "custom:underdark/petrified_ground",
+      "custom:underdark/dead_tree"
+    ],
+    [
+      "custom:underdark/tree"
+    ],
     [],
     [],
     [
@@ -133,7 +137,9 @@
       "offset": 2
     },
     "additions_sound": {
-      "sound": "custom:underdark_ambient_wind",
+      "sound": {
+        "sound_id": "custom:underdark_ambient_wind"
+      },
       "tick_chance": 0.0001
     },
     "music": {
@@ -144,6 +150,5 @@
     },
     "ambient_sound": "minecraft:block.roots.step"
   },
-  "precipitation": "none",
-  "category": "none"
+  "precipitation": "none"
 }

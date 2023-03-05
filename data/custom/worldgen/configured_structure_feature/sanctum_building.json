@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:village",
-  "biomes": "custom:sanctum/no_mans_land",
-  "spawn_overrides": {},
-  "config": {
-    "start_pool": "custom:post",
-    "size": 6
-  }
-}

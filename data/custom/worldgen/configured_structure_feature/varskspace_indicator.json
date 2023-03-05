@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:village",
-  "biomes": "custom:varskspace/expanse",
-  "spawn_overrides": {},
-  "config": {
-    "start_pool": "custom:spire",
-    "size": 6
-  }
-}

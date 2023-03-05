@@ -2,7 +2,6 @@
   "type": "custom:varskspace",
   "generator": {
     "type": "minecraft:noise",
-    "seed": -1464245863,
     "settings": "custom:varskspace",
     "biome_source": {
       "type": "minecraft:multi_noise",
