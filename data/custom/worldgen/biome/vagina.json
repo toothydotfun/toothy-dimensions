@@ -4,7 +4,6 @@
   "scale": 0.05,
   "temperature": 0.8,
   "downfall": 0.4,
-  "precipitation": "none",
   "temperature_modifier": "none",
   "player_spawn_friendly": true,
   "effects": {
@@ -75,5 +74,6 @@
       "minecraft:jungle_bush",
       "minecraft:glowstone"
     ]
-  ]
+  ],
+  "has_precipitation": false
 }
